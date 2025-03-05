@@ -9,10 +9,9 @@
 }
 
 body {
-  font-family: "Inter", sans-serif;
+	font-family: "Inter", sans-serif;
 	font-style: normal;
-  font-variation-settings:
-    "slnt" 0;
+	font-variation-settings: "slnt" 0;
 	font-size: 20px;
 	line-height: 1;
 	text-rendering: optimizeLegibility;
@@ -58,7 +57,7 @@ img {
 
 .preloader {
 	overflow: hidden;
-	opacity: 0;
+	opacity: 1;
 }
 
 .preloader__background {
